@@ -10,10 +10,10 @@
 }
 .frame-324 {
   background: #ffffff;
-  width: 1450px;
+  width: 1500px;
   height: 829px;
   position: absolute;
-  left: 21px;
+  left: 0px;
   top: 198px;
   overflow-y: auto;
 }
@@ -53,7 +53,7 @@
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 600px;
+  left: 620px;
   top: 272px;
 }
 .rectangle-448 {
@@ -72,14 +72,14 @@
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 362px;
 }
 .w-text-holder3 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 600px;
+  left: 620px;
   top: 362px;
 }
 .phone-number {
@@ -89,7 +89,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 340px;
 }
 .blood-group {
@@ -99,7 +99,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 600px;
+  left: 620px;
   top: 432px;
 }
 .email-address {
@@ -109,7 +109,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 600px;
+  left: 620px;
   top: 340px;
 }
 .gender {
@@ -119,28 +119,28 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 1000px;
+  left: 1033px;
   top: 340px;
 }
 .w-text-holder4 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 600px;
+  left: 620px;
   top: 454px;
 }
 .w-text-holder5 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 454px;
 }
 .w-text-holder6 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 595px;
 }
 .address {
@@ -150,7 +150,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 573px;
 }
 .name {
@@ -160,7 +160,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 600px;
+  left: 620px;
   top: 250px;
 }
 .date-of-birth {
@@ -170,14 +170,14 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 432px;
 }
 .edit {
   width: 20px;
   height: 20px;
   position: absolute;
-  left: 430px;
+  left: 443px;
   top: 342px;
   object-fit: cover;
 }
@@ -185,7 +185,7 @@
   width: 20px;
   height: 20px;
   position: absolute;
-  left: 835px;
+  left: 862px;
   top: 342px;
   object-fit: cover;
 }
@@ -196,14 +196,14 @@
   font-size: 8px;
   font-weight: 300;
   position: absolute;
-  left: 770px;
+  left: 797px;
   top: 233px;
 }
 .w-drop-down {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 1000px;
+  left: 1033px;
   top: 362px;
 }
 .rectangle-449 {
@@ -592,21 +592,21 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 659px;
 }
 .w-text-holder7 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 681px;
 }
 .w-text-holder8 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 766px;
 }
 .state {
@@ -616,7 +616,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 744px;
 }
 .country {
@@ -626,21 +626,21 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 829px;
 }
 .w-text-holder9 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 851px;
 }
 .w-text-holder10 {
   width: 250px;
   height: 40px;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 936px;
 }
 .pin-code {
@@ -650,7 +650,7 @@
   font-size: 16px;
   font-weight: 400;
   position: absolute;
-  left: 200px;
+  left: 207px;
   top: 914px;
 }
 .group-95 {
